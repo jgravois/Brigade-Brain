@@ -17,11 +17,11 @@
 <li>Provide an environment where people are free from discrimination or harassment**.
 </ul>
 
-<p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please tell us about it using the <a href="https://codeforabq.typeform.com/to/Uiirlb">Code for ABQ Harassment Reporter</a> or by email us at <a href="mailto:safespace@codeforabq.org">mailto:safespace@codeforabq.org</a>.  We reserves the right to ask anyone in violation of these policies not to participate in Code for ABQ network activities, events, and digital forums.
+<p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please tell us about it using the <a href="https://codeforabq.typeform.com/to/Uiirlb">Code for ABQ Harassment Reporter</a> or by email us at <a href="mailto:safespace@codeforabq.org">safespace@codeforabq.org</a>.  We reserves the right to ask anyone in violation of these policies not to participate in Code for ABQ network activities, events, and digital forums.
 
 <p>*Code for ABQ Partner, agree to abide by the same Code of Conduct at co-hosted network activities, events, and digital forums.
 
-<p>**Please see our <a href="">Anti-Harassrment document<a> for a better understanding of what harassment means to us 
+<p>**Please see our <a href="https://github.com/codeforabq/Brigade-Brain/tree/master/SafeSpace/AntiHarassmentPolicy">Anti-Harassrment document<a> for a better understanding of what harassment means to us 
 
 
 
