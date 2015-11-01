@@ -21,7 +21,7 @@
 
 <p>*Code for ABQ Partner, agree to abide by the same Code of Conduct at co-hosted network activities, events, and digital forums.
 
-<p>**Please see our <a href="https://github.com/codeforabq/Brigade-Brain/tree/master/SafeSpace/AntiHarassmentPolicy">Anti-Harassrment document<a> for a better understanding of what harassment means to us 
+<p>**Please see our <a href="https://github.com/codeforabq/Brigade-Brain/tree/master/SafeSpace/AntiHarassmentPolicy">Anti-Harassrment Policy<a> for a better understanding of what harassment means to us 
 
 
 
