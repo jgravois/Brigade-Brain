@@ -2,9 +2,7 @@
 
 ##Step 1: Sign up for an account
 
-Visit the [sign up page](https://developers.arcgis.com/en/sign-up/) on developers.arcgis.com.
-
-You'll need to supply first name, last name, and an email address.  I suggest something like "tech@codeforabq.org."
+Visit the [sign up page](https://developers.arcgis.com/en/sign-up/) on developers.arcgis.com.  You'll need to supply first name, last name, and an email address.  I suggest something like "tech@codeforabq.org."
 
 ##Step 2: Wait for your confirmation email
 
