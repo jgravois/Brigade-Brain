@@ -12,9 +12,11 @@ It'll come, I promise.
 
 In the email, you'll get a link that will direct you to a page where you'll be asked for a username, password, your organization name, and a password recovery question.
 
+> The username will ultimately dicate the subdomain where people access your work, so its a good idea to use something immediately identifiable (like 'codeforabq')
+
 ##Step 4: Request your brigade voucher
 
-Email XXXXX and tell them which brigade you are a member of and that you'd like to.  Extra bonis points if you already know what you want to be using the credits for.
+Holler at [**@jgravois**](https://github.com/jgravois) and tell him which brigade you are a member of and what you've got brewing and he should be able get you a voucher to charge up the account with additional [credits](https://developers.arcgis.com/en/credits/).  Extra bonus points if you already know what you want to be using the credits for.
 
 ##Step 5: Redeem your voucher
 
