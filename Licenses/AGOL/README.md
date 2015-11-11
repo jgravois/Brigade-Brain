@@ -1,12 +1,12 @@
-#Obtaining ArcGIS Online Developer Credits through Esri
+#Obtaining ArcGIS Online Developer Credits through Esri 
 
-##Step 1: Sign up for an account
+##Step 1: Sign up for an account on developers.arcgis.com
 
-Go to [developers.arcgis.com/en/](https://developers.arcgis.com/en/) and select the "sign in" button in the upper right hand corner.
+Go to [developers.arcgis.com](https://developers.arcgis.com) and select the "sign in" button in the upper right hand corner.  Look for "Need an account?  Sign up for free."  Click that link. 
 
-Look for "Need an account?  Sign up for free."  Click that link.  
+Alternatively... you can go to the sign up page [sign up page](https://developers.arcgis.com/en/sign-up/) directly.
 
-You'll need to supply first name, last name, and an email address.  I suggest something like "tech@codeforabq.org."
+Either way, you'll need to supply first name, last name, and an email address.  I suggest something like "tech@codeforabq.org."
 
 ##Step 2: Wait for your confirmation email
 
@@ -22,4 +22,4 @@ Email XXXXX and tell them which brigade you are a member of and that you'd like 
 
 ##Step 5: Redeem your voucher
 
-XXXXX will email you back with your brigade's coupon code.  Log into your account on [developers.arcgis.com/en/](https://developers.arcgis.com/en/) and select "Redeem Voucher" under the menu in the upper right hand corner of the page.  Paste your voucher into the following screen and you'll be set to go.
+XXXXX will email you back with your brigade's coupon code.  Log into your account on [developers.arcgis.com](https://developers.arcgis.com) and select "Redeem Voucher" under the menu in the upper right hand corner of the page.  Paste your voucher into the following screen and you'll be set to go.
